@@ -1,0 +1,6 @@
+﻿/**
+ * @author yuki
+ */
+class test 
+{
+}
